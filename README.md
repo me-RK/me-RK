@@ -4,7 +4,7 @@
 
 I build **embedded systems, electronics prototypes, IoT solutions and robotics projects** — combining hardware, firmware and software to solve real-world problems.
 
-[![Website](https://img.shields.io/badge/EmptyIdea-2979FF?style=flat-square\&logo=google-chrome\&logoColor=white)](https://emptyidea.in)
+[![EmptyIdea](https://img.shields.io/badge/EmptyIdea-2979FF?style=flat-square&logoColor=white)](https://emptyidea.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/github/followers/me-RK?style=flat-square\&logo=github\&label=Follow)](https://github.com/me-RK)
 
